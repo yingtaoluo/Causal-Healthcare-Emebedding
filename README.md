@@ -6,18 +6,14 @@ Google scholar may experience a delay for citation generation. Sorry for your in
 
 Y. Luo, Z. Liu and Q. Liu, "Deep Stable Representation Learning on Electronic Health Records," 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 1077-1082, doi: 10.1109/ICDM54844.2022.00134.  
 
-`@INPROCEEDINGS{10027709,  
+@INPROCEEDINGS{10027709,  
   author={Luo, Yingtao and Liu, Zhaocheng and Liu, Qiang},  
   booktitle={2022 IEEE International Conference on Data Mining (ICDM)},   
-  title={Deep Stable Representation Learning on Electronic Health Records},   
+  title={Deep Stable Representation Learning on Electronic Health Records},  
   year={2022},  
-  volume={},  
-  number={},  
   pages={1077-1082},  
-  doi={10.1109/ICDM54844.2022.00134}}`
+  doi={10.1109/ICDM54844.2022.00134}}
   
-  
-
 
 ## Datasets
 MIMIC III: https://physionet.org/content/mimiciii/1.4/  
