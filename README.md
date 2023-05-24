@@ -9,7 +9,7 @@ MIMIC IV: https://physionet.org/content/mimiciv/0.4/
 Diagnoses and Procedures.
 
 ## Getting Started
-Run [preprocessing.py](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/blob/main/preprocessing.py) for the main experiment and [preprocess_insurance.py](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/blob/main/preprocess_insurance.py) for the "OOD" experiment. Run under the [Stable](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/tree/main/Stable) folder for CHE+BaseModels and [Stable](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/tree/main/Normal) folder for BaseModels.
+Run [preprocessing.py](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/blob/main/preprocessing.py) for the main experiment and [preprocess_insurance.py](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/blob/main/preprocess_insurance.py) for the "OOD" experiment. Run under the [Stable](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/tree/main/Stable) folder for CHE+BaseModels and [Normal](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/tree/main/Normal) folder for BaseModels.
 
 ## Acknowledgement
 Some baselines are implemented following the [PyHealth](https://github.com/sunlabuiuc/PyHealth) library.
