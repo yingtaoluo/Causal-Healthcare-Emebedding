@@ -16,7 +16,7 @@ from utils import *
 # N: batch_size, U: number of unique ICDs, T: number of timestamps, H: embedding dimension, B: size of bucket
 parser = argparse.ArgumentParser()
 parser.add_argument('model', type=str, help='choose which model to train')
-parser.add_argument('seed', type=int, help='choose which dataset to load')
+parser.add_argument('seed', type=int, help='choose which seed to load')
 parser.add_argument('gpu', type=int, help='choose which gpu device to use')
 parser.add_argument('lr', type=float, help='learning rate')
 parser.add_argument('data', type=str, help='choose a dataset, MIMIC3 or CMS')
