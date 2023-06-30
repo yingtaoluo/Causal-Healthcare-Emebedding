@@ -3,6 +3,9 @@ Official code for "Deep Stable Representation Learning on Electronic Health Reco
 
 Check the [presentation material](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/blob/main/Presentation%20on%20EHR.pptx).
 
+![image](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/blob/main/motivation.png)  
+![image](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/blob/main/method.png)  
+
 ## Datasets
 MIMIC III: https://physionet.org/content/mimiciii/1.4/  
 MIMIC IV: https://physionet.org/content/mimiciv/0.4/  
