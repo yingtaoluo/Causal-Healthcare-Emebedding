@@ -17,8 +17,7 @@ Run [preprocessing.py](https://github.com/yingtaoluo/Causal-Healthcare-Emebeddin
 ## Acknowledgement
 Some baselines are implemented following the [PyHealth](https://github.com/sunlabuiuc/PyHealth) library.
 
-## Citation
-Google scholar may experience a delay for citation generation. Sorry for your inconvenience.  
+## Citation 
 If your paper benefits from this repo, please consider citing with:
 
 ```
