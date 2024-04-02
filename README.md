@@ -1,5 +1,5 @@
 # Causal-Healthcare-Emebedding
-Official code for "Deep Stable Representation Learning on Electronic Health Records" published in IEEE International Conference on Data Mining (ICDM 2022). [[paper](https://doi.org/10.1109/ICDM54844.2022.00134)]  [[arXiv](https://arxiv.org/abs/2209.01321)]  
+Official code for "Deep Stable Representation Learning on Electronic Health Records" published and orally presented in IEEE International Conference on Data Mining (ICDM 2022). [[paper](https://doi.org/10.1109/ICDM54844.2022.00134)]  [[arXiv](https://arxiv.org/abs/2209.01321)]  
 
 Check the [presentation material](https://github.com/yingtaoluo/Causal-Healthcare-Emebedding/blob/main/Presentation%20on%20EHR.pptx).
 
